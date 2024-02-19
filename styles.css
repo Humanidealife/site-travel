@@ -212,7 +212,7 @@ article h4
     color: #fff;
     background-color: #ff7a00;
     padding: 6px 20px;
-    border-radius: 3px;
+    border-radius: 8px;
 }
 .button-2:hover
 {
@@ -254,7 +254,7 @@ input[type="text"]
     font-size: 20px;
     margin-right: 20px;
     border: 2px solid #ddd;
-    border-radius: 3px;
+    border-radius: 8px;
 }
 .button-3
 {
@@ -264,7 +264,7 @@ input[type="text"]
     padding: 11px;
     background-color: #02b8dd;
     border-style: none;
-    border-radius: 3px;
+    border-radius: 8px;
 }
 .button-3:hover
 {
