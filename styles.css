@@ -5,14 +5,14 @@
     margin: 0;
     padding: 0;
 }
-body 
+body
 {
     font-family: Arial,sans-serif;
     font-size: 15px;
 }
 h1, h2,h3,h4
 {
-  color: #444;  
+  color: #444;
 }
 h1
 {
@@ -57,7 +57,7 @@ a
 }
 .clear
 {
-    clear: both;   
+    clear: both;
 }
 small
 {
@@ -67,9 +67,9 @@ small
 
 /* HEADER */
 
-header 
+header
 {
-    height: 120px;   
+    height: 120px;
 }
 header h1
 {
@@ -78,12 +78,12 @@ header h1
 }
 header nav
 {
-    float: right;   
+    float: right;
     margin-top: 50px;
 }
 header nav ul li
 {
-    float:left;
+    float: left;
     display: inline-block;
 }
 header nav ul li a
@@ -119,7 +119,7 @@ header nav ul li a
     margin: 0 auto;
     line-height: 50px;
     text-align: center;
-    border-radius:  3px;
+    border-radius:  8px;
 }
 .button-1:hover
 {
@@ -139,7 +139,7 @@ header nav ul li a
     padding-top: 140px;
     text-align: center;
     margin-right: 10px;
-    
+
 }
 #steps h4
 {
@@ -157,7 +157,7 @@ header nav ul li a
 #step-2
 {
     background: url('images/steps-icon-2.png') no-repeat top center;
-    
+
 }
 #step-3
 {
@@ -235,7 +235,7 @@ article h4
     text-transform: uppercase;
     margin: 0 auto 20px auto;
     border-bottom:  1px solid #02b8dd;
-    padding-bottom: 20px;   
+    padding-bottom: 20px;
 }
 form
 {
@@ -292,44 +292,3 @@ footer h1
     padding-top: 30px;
     color: #777;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
